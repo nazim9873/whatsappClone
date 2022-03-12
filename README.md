@@ -1,2 +1,2 @@
 # whatsappClone
-Flutter
+Flutter is used for building App
